@@ -8,7 +8,6 @@ class Solution {
                 {
                     outp[0]=i;
                     outp[1]=j;
-                    return outp;
                 }
             }
         }
